@@ -1,2 +1,2 @@
 # MonoDepthEst
-UCD final project: 3D imaging techniques - monocular depth estimation
+Final project: 3D imaging techniques - monocular depth estimation
