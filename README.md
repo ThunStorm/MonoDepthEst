@@ -6,7 +6,7 @@ The project aims to implement a depth estimation system with a single camera, im
 
 To have an overview of the project, check the [poster](src/doc/Poster_desensitized.pdf) in the repository
 
-![image](src/img/indoor_chopped.png)
+<img src="/src/img/indoor_chopped.png" alt="image" style="zoom: 200%;" />
 
 ## Preparation⚙
 
