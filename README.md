@@ -43,5 +43,5 @@ To have an overview of the project, check the [poster](src/doc/Poster_desensitiz
 
 The project will be used in "Flea Market" project for indoor prediction and 3D reconstruction.
 
-<img src="/src/img/miniprogram_demo_Gifski.gif" alt="image" style="zoom: 33%;" />
+<img src="/src/img/miniprogram_demo_Gifski.gif" alt="image" style="zoom: 20%;" />
 
