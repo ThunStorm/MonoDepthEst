@@ -5,7 +5,7 @@ import time
 
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '5'
 
-# Kerasa / TensorFlow
+# Keras / TensorFlow
 from loss import depth_loss_function
 from utils import load_test_data
 from model import create_model
@@ -53,7 +53,7 @@ os.environ["PATH"] += os.pathsep + 'C:/Program Files/Graphviz/bin/'
 # Create the model
 model = create_model(existing=args.checkpoint)
 
-# Data loaders
+# Data loaders / reserved for kitti dataset for further use
 if args.data == 'nyu': train_generator, test_generator = get_nyu_train_test_data(args.bs)
 
 # Training session details

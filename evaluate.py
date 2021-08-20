@@ -10,7 +10,7 @@ from loss import depth_loss_function
 from utils import evaluate
 
 # Argument Parser
-parser = argparse.ArgumentParser(description='High Quality Monocular Depth Estimation via Transfer Learning')
+parser = argparse.ArgumentParser(description='Encoder-decoder Based Monocular Depth Estimation')
 parser.add_argument('--model', default='./trained models/model.h5', type=str, help='Trained Keras model file.')
 args = parser.parse_args()
 
