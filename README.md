@@ -32,7 +32,8 @@ To have an overview of the project, check the [poster](src/doc/Poster_desensitiz
 ### Evaluation🥇:
 
 - To evaluate the model run `python evaluate.py` , add `--model` to import your own trained model
-- You will have the six evaluation criteria (threshold accuracies, average relative error, root mean squared error, average error): $\delta_1,\delta_2,\delta_3,rel,rms,log_{10}$
+- You will have the six evaluation criteria (threshold accuracies, average relative error, root mean squared error, average error): 
+![](http://latex.codecogs.com/svg.latex?\delta_1,\delta_2,\delta_3,rel,rms,log_{10})
 
 ### Prediction 🖼:
 
